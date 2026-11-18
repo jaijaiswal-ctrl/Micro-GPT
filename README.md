@@ -28,25 +28,3 @@ Once the brain is saved, you can chat with your AI instantly without training:
                             python3 chat.py
 Results
 Trained on a dataset of Shakespearean plays, the model successfully learned the dramatic structure of a script, including character names and old-English dialogue.
-
-### Hardware Used
-Device: MacBook Pro (Apple Silicon)
-Acceleration: PyTorch MPS (Metal Performance Shaders)
- 
----
-
-### Step 3: Save and Upload
-1. **Save the file** (`Cmd + S`).
-2. Now you have your `README.md`! 
-3. Go back to your GitHub browser window and **upload this file** along with the others.
-
-### Why this is important:
-When a recruiter or another developer clicks on your GitHub link, they don't want to read your code first—they want to read the `README`. 
-
-**By including this, you are telling them:**
-*   **What you built:** A Transformer.
-*   **How you built it:** PyTorch + MPS.
-*   **That you solved problems:** You mentioned "Stable-Mode Training" to fix memory crashes. This shows you are a problem-solver.
-*   **How to use it:** You provided clear instructions.
-
-**Now you are 100% ready to upload to GitHub! Let's get that project live!** 🚀🌟
